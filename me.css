@@ -1,0 +1,1140 @@
+.desktop {
+    background-color: #e4e5e0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .div {
+    background-color: #e4e5e0;
+    overflow: hidden;
+    width: 1440px;
+    height: 2718px;
+    position: relative;
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    width: 655px;
+    height: 52px;
+    top: 2099px;
+    left: 392px;
+    font-family: "Special Elite-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .overlap {
+    position: absolute;
+    width: 1350px;
+    height: 713px;
+    top: 71px;
+    left: 160px;
+}
+
+.desktop .draw-something {
+    position: absolute;
+    width: 655px;
+    height: 52px;
+    top: 0;
+    left: 695px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    line-height: Truepx;
+}
+
+.desktop .group {
+    position: absolute;
+    width: 1120px;
+    height: 672px;
+    top: 41px;
+    left: 0;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.desktop .overlap-group {
+    position: relative;
+    width: 1121px;
+    height: 673px;
+    top: -1px;
+    left: -1px;
+}
+
+.desktop .line {
+    width: 1121px;
+    height: 673px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.desktop .img {
+    width: 1121px;
+    height: 673px;
+    top: 0;
+    left: 1px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.desktop .p {
+    position: absolute;
+    width: 736px;
+    height: 52px;
+    top: 802px;
+    left: 352px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-2 {
+    position: absolute;
+    width: 278px;
+    height: 52px;
+    top: 1175px;
+    left: 746px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: Truepx;
+    
+}
+
+.desktop .mySkill {
+    position: absolute;
+    width: 471px;
+    height: 111px;
+    top: 1248px;
+    left: 756px;
+}
+
+.desktop .text-wrapper-3 {
+    height: 53px;
+    top: 25px;
+    left: 48px;
+    position: absolute;
+    width: 423px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-4 {
+    width: 90px;
+    height: 52px;
+    top: 0;
+    left: 0;
+    font-family: "Special Elite-Regular", Helvetica;
+    color: #1b1b1b;
+    letter-spacing: 0.32px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    line-height: Truepx;
+}
+
+.desktop .illustrator {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 48px;
+    left: 14px;
+    object-fit: cover;
+}
+
+.desktop .asset-2 {
+    top: 68px;
+    left: 146px;
+    position: absolute;
+    width: 231px;
+    height: 23px;
+    object-fit: cover;
+}
+
+.desktop .overlap-3 {
+    position: absolute;
+    width: 457px;
+    height: 82px;
+    top: 1371px;
+    left: 770px;
+}
+
+.desktop .text-wrapper-5 {
+    height: 52px;
+    top: 0;
+    left: 34px;
+    position: absolute;
+    width: 423px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: Truepx;
+}
+
+.desktop .asset-pts {
+    position: absolute;
+    width: 64px;
+    height: 63px;
+    top: 19px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .asset-3 {
+    top: 39px;
+    left: 132px;
+    position: absolute;
+    width: 231px;
+    height: 23px;
+    object-fit: cover;
+}
+
+.desktop .overlap-4 {
+    position: absolute;
+    width: 457px;
+    height: 81px;
+    top: 1465px;
+    left: 770px;
+}
+
+.desktop .asset-figma {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 18px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .asset-4 {
+    top: 45px;
+    left: 132px;
+    position: absolute;
+    width: 231px;
+    height: 23px;
+    object-fit: cover;
+}
+
+.desktop .overlap-5 {
+    position: absolute;
+    width: 457px;
+    height: 75px;
+    top: 1558px;
+    left: 770px;
+}
+
+.desktop .asset-ae {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 12px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .asset-5 {
+    position: absolute;
+    width: 232px;
+    height: 23px;
+    top: 41px;
+    left: 132px;
+    object-fit: cover;
+}
+
+.desktop .overlap-6 {
+    position: absolute;
+    width: 457px;
+    height: 79px;
+    top: 1647px;
+    left: 770px;
+}
+
+.desktop .asset-html {
+    position: absolute;
+    width: 63px;
+    height: 62px;
+    top: 17px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .rectangle {
+    position: absolute;
+    width: 567px;
+    height: 56px;
+    top: 2416px;
+    left: 437px;
+    padding: 20px; /* Thêm khoảng cách bên trong */
+    box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước phần tử */
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-form label {
+    margin-bottom: 5px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-size: 16px;
+    color: #1b1b1b;
+}
+
+#contact-form input,
+#contact-form textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-size: 16px;
+    border: 1px solid #1b1b1b;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#contact-form button {
+    padding: 10px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-size: 16px;
+    color: #e4e5e0;
+    background-color: #1b1b1b;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#contact-form button:hover {
+    background-color: #333;
+}
+}
+
+
+
+
+.desktop .polygon {
+    position: absolute;
+    width: 32px;
+    height: 39px;
+    top: 3px;
+    left: 18px;
+}
+
+.desktop .text {
+    position: absolute;
+    width: 426px;
+    height: 161px;
+    top: 1155px;
+    left: 195px;
+}
+
+.desktop .overlap-7 {
+    position: absolute;
+    width: 349px;
+    height: 161px;
+    top: 0;
+    left: 0;
+}
+.desktop .aboutTho {
+    position: absolute;
+    top: 1155px;
+    left: 195px;
+}
+    
+.desktop .text-wrapper-6 {
+    position: absolute;
+    width: 208px;
+    height: 52px;
+    top: 77px;
+    left: 125px;
+    font-family: "Special Elite-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: Truepx;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+    position: absolute;
+    width: 214px;
+    height: 161px;
+    top: 0;
+    left: 0;
+    font-family: "Meddon-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 21.12px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-8 {
+    position: absolute;
+    width: 64px;
+    height: 127px;
+    top: 34px;
+    left: 285px;
+    font-family: "Meddon-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-9 {
+    position: absolute;
+    height: 48px;
+    top: 98px;
+    left: 349px;
+    font-family: "Special Elite-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: Truepx;
+    white-space: nowrap;
+}
+
+.desktop .line-2 {
+    width: 1px;
+    height: 540px;
+    top: 1176px;
+    left: 720px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.desktop .logo {
+    top: 16px;
+    left: 160px;
+    position: fixed;
+    width: 43px;
+    height: 41px;
+    object-fit: cover;
+    animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.desktop .logo-2 {
+    top: 2650px;
+    left: 692px;
+    position: absolute;
+    width: 43px;
+    height: 41px;
+    object-fit: cover;
+    animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.desktop .text-wrapper-10 {
+    width: 66px;
+    height: 34px;
+    top: 15px;
+    left: 1118px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    color: #000000;
+    letter-spacing: -0.96px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    line-height: Truepx;
+    transition: color 0.3s ease;
+}
+
+.desktop .text-wrapper-10:hover {
+    color: #D8D9D7;
+}
+
+.desktop .text-wrapper-11 {
+    position: absolute;
+    width: 66px;
+    height: 34px;
+    top: 15px;
+    left: 1217px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: -0.96px;
+    line-height: Truepx;
+    transition: color 0.3s ease;
+}
+
+.desktop .text-wrapper-11:hover {
+    color: #D8D9D7;
+}
+
+.desktop .asset-fb {
+    position: absolute;
+    width: 95px;
+    height: 90px;
+    top: 2216px;
+    left: 321px;
+    object-fit: cover;
+    animation: tilt 1s infinite;
+}
+
+.desktop .asset-insta {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: 2216px;
+    left: 669px;
+    object-fit: cover;
+    animation: tilt 1s infinite;
+}
+
+.desktop .asset-gmail {
+    position: absolute;
+    width: 90px;
+    height: 89px;
+    top: 2217px;
+    left: 1012px;
+    object-fit: cover;
+    animation: tilt 1s infinite;
+}
+
+@keyframes tilt {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(-5deg); }
+    50% { transform: rotate(5deg); }
+    75% { transform: rotate(-5deg); }
+}
+
+.desktop {
+    background-color: #e4e5e0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .div {
+    background-color: #e4e5e0;
+    overflow: hidden;
+    width: 1440px;
+    height: 2718px;
+    position: relative;
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    width: 655px;
+    height: 52px;
+    top: 2099px;
+    left: 392px;
+    font-family: "Special Elite-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .overlap {
+    position: absolute;
+    width: 1350px;
+    height: 713px;
+    top: 71px;
+    left: 160px;
+}
+
+.desktop .draw-something {
+    position: absolute;
+    width: 655px;
+    height: 52px;
+    top: 0;
+    left: 695px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    line-height: Truepx;
+}
+
+.desktop .group {
+    position: absolute;
+    width: 1120px;
+    height: 672px;
+    top: 41px;
+    left: 0;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.desktop .overlap-group {
+    position: relative;
+    width: 1121px;
+    height: 673px;
+    top: -1px;
+    left: -1px;
+}
+
+.desktop .line {
+    width: 1121px;
+    height: 673px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.desktop .img {
+    width: 1121px;
+    height: 673px;
+    top: 0;
+    left: 1px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.desktop .p {
+    position: absolute;
+    width: 736px;
+    height: 52px;
+    top: 802px;
+    left: 352px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-2 {
+    position: absolute;
+    width: 278px;
+    height: 52px;
+    top: 1175px;
+    left: 746px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: Truepx;
+    
+}
+
+.desktop .mySkill {
+    position: absolute;
+    width: 471px;
+    height: 111px;
+    top: 1248px;
+    left: 756px;
+}
+
+.desktop .text-wrapper-3 {
+    height: 53px;
+    top: 25px;
+    left: 48px;
+    position: absolute;
+    width: 423px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-4 {
+    width: 90px;
+    height: 52px;
+    top: 0;
+    left: 0;
+    font-family: "Special Elite-Regular", Helvetica;
+    color: #1b1b1b;
+    letter-spacing: 0.32px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    line-height: Truepx;
+}
+
+.desktop .illustrator {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 48px;
+    left: 14px;
+    object-fit: cover;
+}
+
+.desktop .asset-2 {
+    top: 68px;
+    left: 146px;
+    position: absolute;
+    width: 231px;
+    height: 23px;
+    object-fit: cover;
+}
+
+.desktop .overlap-3 {
+    position: absolute;
+    width: 457px;
+    height: 82px;
+    top: 1371px;
+    left: 770px;
+}
+
+.desktop .text-wrapper-5 {
+    height: 52px;
+    top: 0;
+    left: 34px;
+    position: absolute;
+    width: 423px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: Truepx;
+}
+
+.desktop .asset-pts {
+    position: absolute;
+    width: 64px;
+    height: 63px;
+    top: 19px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .asset-3 {
+    top: 39px;
+    left: 132px;
+    position: absolute;
+    width: 231px;
+    height: 23px;
+    object-fit: cover;
+}
+
+.desktop .overlap-4 {
+    position: absolute;
+    width: 457px;
+    height: 81px;
+    top: 1465px;
+    left: 770px;
+}
+
+.desktop .asset-figma {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 18px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .asset-4 {
+    top: 45px;
+    left: 132px;
+    position: absolute;
+    width: 231px;
+    height: 23px;
+    object-fit: cover;
+}
+
+.desktop .overlap-5 {
+    position: absolute;
+    width: 457px;
+    height: 75px;
+    top: 1558px;
+    left: 770px;
+}
+
+.desktop .asset-ae {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 12px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .asset-5 {
+    position: absolute;
+    width: 232px;
+    height: 23px;
+    top: 41px;
+    left: 132px;
+    object-fit: cover;
+}
+
+.desktop .overlap-6 {
+    position: absolute;
+    width: 457px;
+    height: 79px;
+    top: 1647px;
+    left: 770px;
+}
+
+.desktop .asset-html {
+    position: absolute;
+    width: 63px;
+    height: 62px;
+    top: 17px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .rectangle {
+    position: absolute;
+    width: 567px;
+    height: 56px;
+    top: 2416px;
+    left: 437px;
+    padding: 20px; /* Thêm khoảng cách bên trong */
+    box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước phần tử */
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-form label {
+    margin-bottom: 5px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-size: 16px;
+    color: #1b1b1b;
+}
+
+#contact-form input,
+#contact-form textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-size: 16px;
+    border: 1px solid #1b1b1b;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#contact-form button {
+    padding: 10px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-size: 16px;
+    color: #e4e5e0;
+    background-color: #1b1b1b;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#contact-form button:hover {
+    background-color: #333;
+}
+}
+
+
+
+
+.desktop .polygon {
+    position: absolute;
+    width: 32px;
+    height: 39px;
+    top: 3px;
+    left: 18px;
+}
+
+.desktop .text {
+    position: absolute;
+    width: 426px;
+    height: 161px;
+    top: 1155px;
+    left: 195px;
+}
+
+.desktop .overlap-7 {
+    position: absolute;
+    width: 349px;
+    height: 161px;
+    top: 0;
+    left: 0;
+}
+.desktop .aboutTho {
+    position: absolute;
+    top: 1155px;
+    left: 195px;
+}
+    
+.desktop .text-wrapper-6 {
+    position: absolute;
+    width: 208px;
+    height: 52px;
+    top: 77px;
+    left: 125px;
+    font-family: "Special Elite-Regular", Helvetica;
+    font-weight: 400;
+    color: #1b1b1b;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: Truepx;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+    position: absolute;
+    width: 214px;
+    height: 161px;
+    top: 0;
+    left: 0;
+    font-family: "Meddon-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 21.12px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-8 {
+    position: absolute;
+    width: 64px;
+    height: 127px;
+    top: 34px;
+    left: 285px;
+    font-family: "Meddon-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: Truepx;
+}
+
+.desktop .text-wrapper-9 {
+    position: absolute;
+    height: 48px;
+    top: 98px;
+    left: 349px;
+    font-family: "Special Elite-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 10.56px;
+    line-height: Truepx;
+    white-space: nowrap;
+}
+
+.desktop .line-2 {
+    width: 1px;
+    height: 540px;
+    top: 1176px;
+    left: 720px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.desktop .logo {
+    top: 16px;
+    left: 160px;
+    position: fixed;
+    width: 43px;
+    height: 41px;
+    object-fit: cover;
+    animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.desktop .logo-2 {
+    top: 2650px;
+    left: 692px;
+    position: absolute;
+    width: 43px;
+    height: 41px;
+    object-fit: cover;
+    animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.desktop .text-wrapper-10 {
+    width: 66px;
+    height: 34px;
+    top: 15px;
+    left: 1118px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    color: #000000;
+    letter-spacing: -0.96px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    line-height: Truepx;
+    transition: color 0.3s ease;
+}
+
+.desktop .text-wrapper-10:hover {
+    color: #D8D9D7;
+}
+
+.desktop .text-wrapper-11 {
+    position: absolute;
+    width: 66px;
+    height: 34px;
+    top: 15px;
+    left: 1217px;
+    font-family: "Helvetica Light-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: -0.96px;
+    line-height: Truepx;
+    transition: color 0.3s ease;
+}
+
+.desktop .text-wrapper-11:hover {
+    color: #D8D9D7;
+}
+
+.desktop .asset-fb {
+    position: absolute;
+    width: 95px;
+    height: 90px;
+    top: 2216px;
+    left: 321px;
+    object-fit: cover;
+    animation: tilt 1s infinite;
+}
+
+.desktop .asset-insta {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: 2216px;
+    left: 669px;
+    object-fit: cover;
+    animation: tilt 1s infinite;
+}
+
+.desktop .asset-gmail {
+    position: absolute;
+    width: 90px;
+    height: 89px;
+    top: 2217px;
+    left: 1012px;
+    object-fit: cover;
+    animation: tilt 1s infinite;
+}
+
+@keyframes tilt {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(-5deg); }
+    50% { transform: rotate(5deg); }
+    75% { transform: rotate(-5deg); }
+}
+
+/* Media queries cho iPhone 14 (390px x 844px) */
+@media (max-width: 390px) {
+    .div {
+        padding: 10px;
+    }
+
+    .text-wrapper-5, .text-wrapper-10, .text-wrapper-11 {
+        font-size: 1em;
+    }
+
+    .rectangle {
+        padding: 10px;
+    }
+
+    #contact-form label, #contact-form textarea, #contact-form button {
+        font-size: 14px;
+    }
+}
+
+/* Media queries cho iPad Mini (768px x 1024px) */
+@media (max-width: 768px) {
+    .div {
+        padding: 15px;
+    }
+
+    .text-wrapper-5, .text-wrapper-10, .text-wrapper-11 {
+        font-size: 1.2em;
+    }
+
+    .rectangle {
+        padding: 15px;
+    }
+
+    #contact-form label, #contact-form textarea, #contact-form button {
+        font-size: 15px;
+    }
+}
+
+/* Media queries cho màn hình nhỏ hơn 1212px */
+@media (max-width: 1212px) {
+    .desktop {
+        align-items: center;
+    }
+
+    .div {
+        margin: 0 auto;
+    }
+}
